@@ -137,7 +137,7 @@
         <snakeyaml.version>2.2</snakeyaml.version>
         <staxutils.version>20070216</staxutils.version>
         <stringtemplate.version>4.3.4</stringtemplate.version>
-        <testcontainers.version>1.19.8</testcontainers.version>
+        <testcontainers.version>1.20.1</testcontainers.version>
         <threeten.version>1.8.0</threeten.version>
         <!-- trove4j seems abandoned - to be replaced ? -->
         <trove4j.version>3.0.3</trove4j.version>
