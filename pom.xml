@@ -112,7 +112,7 @@
         <ejml.version>0.45.1</ejml.version>
         <fastcsv.version>4.3.0</fastcsv.version>
         <!-- findbugs cannot be updated until graphviz is updated/replaced since findbugs groupdId changed -->
-        <findbugs-annotations.version>3.0.1</findbugs-annotations.version>
+        <findbugs-annotations.version>3.0.1u2</findbugs-annotations.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <!-- gdata seems abandoned - to be replaced? -->
         <gdata.version>1.47.1_1</gdata.version>
