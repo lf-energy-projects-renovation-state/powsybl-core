@@ -125,7 +125,7 @@
         <!-- junit can be updated to v6 -->
         <junit-jupiter.version>5.14.4</junit-jupiter.version>
         <logback.version>1.5.34</logback.version>
-        <maven.compat>3.9.9</maven.compat>
+        <maven.compat>3.9.16</maven.compat>
         <maven.core.version>3.9.3</maven.core.version>
         <maven.plugin.annotations.version>3.15.2</maven.plugin.annotations.version>
         <maven.plugin.testing.harness.version>3.5.1</maven.plugin.testing.harness.version>
